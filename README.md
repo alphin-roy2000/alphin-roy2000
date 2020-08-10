@@ -1,7 +1,7 @@
 <h2> Hi, I'm  Alphin Roy! </h2>
 
 [![Twitter: alphinroy](https://img.shields.io/twitter/follow/alphinroy?style=social)](https://twitter.com/alphinroy)
-[![Linkedin: alphin-roy-a2353172](https://img.shields.io/badge/-alphin-roy-a2353172-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alphin-roy-a2353172/)](https://www.linkedin.com/in/alphin-roy-a2353172/)
+
 [![GitHub alphin-roy2000](https://img.shields.io/github/followers/alphin-roy2000?label=follow&style=social)](https://github.com/alphin-roy2000)
 
 
