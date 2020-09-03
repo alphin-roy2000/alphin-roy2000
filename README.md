@@ -27,6 +27,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000000?style=flat&logo=Vue.js)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 
 <!--![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)-->
